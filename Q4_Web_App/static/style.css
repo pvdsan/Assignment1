@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+video, canvas {
+    position: absolute;
+}
+
+canvas {
+    pointer-events: none; /* Allow clicks to pass through to video */
+}
