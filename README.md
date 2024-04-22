@@ -18,3 +18,7 @@ There is a buffer padding of squares Ive used so checker board size is 7x5
 ![image](https://github.com/pvdsan/Assignment1/assets/22724124/093fd227-0c67-474a-94db-e285f7f386cf)
 
 
+## QUESTION 3 and 4:
+Application that can get us height and width of an object that the user can choose to annotate. The objects will be kept at a distance of 30 cm from the webcam
+The demo video is uploaded on the classwork
+
